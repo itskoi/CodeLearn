@@ -40,6 +40,9 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xtree": "cpp",
-        "xutility": "cpp"
-    }
+        "xutility": "cpp",
+        "iterator": "cpp",
+    },
+        "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+        "terminal.integrated.shellArgs.windows": ["/k D:\\Programming\\IDE\\cmder\\vendor\\init.bat"]  
 }
